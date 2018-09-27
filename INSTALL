@@ -1,0 +1,5 @@
+Building SpeedtradeCoin
+
+See doc/build-*.md for instructions on building speedtradecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SpeedtradeCoin.
